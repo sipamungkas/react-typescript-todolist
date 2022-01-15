@@ -15,7 +15,7 @@
 
 ## Description
 
-In this project I learn how to implemented my learning progress of typescript. I make a drag and drop project with typescript in OOP. I hope you enjoy it.
+In this project I learn how to implemented my learning progress in typescript. I make simple todo list (yet another todo list project) with react and typescript.
 
 ## Features
 
