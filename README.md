@@ -19,11 +19,10 @@ In this project I learn how to implemented my learning progress in typescript. I
 
 ## Features
 
-- Add project
-- Drag and Drop
-- Move project from active into finished and vice versa
-- typescript
-- OOP (Object-Oriented Programming)
+- Add Todo Item
+- Delete Todo Item
+- Typescript (I am starting to love typescript :heart_eyes: )
+- React
 
 ## Installation
 
